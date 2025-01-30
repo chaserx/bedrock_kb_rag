@@ -43,7 +43,7 @@ Read more about [Langchain AWS](https://python.langchain.com/docs/integrations/p
 
 - `KNOWLEDGE_BASE_ID`: The ID of the knowledge base to retrieve information from.
 
-1. Install dependencies
+2. Install dependencies
 
 ```bash
 uv sync
