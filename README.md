@@ -62,3 +62,9 @@ Additionally, you use the `--question` flag to specify a question to ask the kno
 ```bash
 uv run main.py --question "What was the motivation for awarding the Nobel Prize to Albert Einstein?"
 ```
+
+You can also specify the knowledge base ID using the `--knowledge-base-id` flag.
+
+```bash
+uv run main.py --knowledge-base-id "your-knowledge-base-id" --question "What was the motivation for awarding the Nobel Prize to Albert Einstein?"
+```
