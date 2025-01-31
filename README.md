@@ -4,14 +4,14 @@ This is a simple example of how to use Bedrock to retrieve information from a kn
 
 ## Background
 
-| Concept | Repository  |
+| Concept / Example | Repository  |
 |:--|:--|
-|  AWS Bedrock + Langchain example  | https://github.com/chaserx/aws-llm-basic  |
-| Document addition and retrieval w/ ChromaDB example | https://github.com/chaserx/chroma_simple |
-| Data embedding and search w/ ChromaDB example | https://github.com/chaserx/chroma_langchain_embedding_retrieval |
-| Pinecone Vector DB index creation  | https://github.com/chaserx/pinecone_quickstart  |
-| LangSmith example | https://github.com/chaserx/langsmith_simple  |
-| AWS Bedrock Knowledge Base example | https://github.com/chaserx/bedrock_kb_rag 👈 You are here  |
+|  AWS Bedrock + Langchain  | https://github.com/chaserx/aws-llm-basic  |
+| ChromaDB: Document addition and retrieval | https://github.com/chaserx/chroma_simple |
+| ChromaDB: Data embedding and search | https://github.com/chaserx/chroma_langchain_embedding_retrieval |
+| Pinecone Vector DB setup task: index creation  | https://github.com/chaserx/pinecone_quickstart  |
+| Using LangSmith | https://github.com/chaserx/langsmith_simple  |
+| AWS Bedrock Knowledge Bases | https://github.com/chaserx/bedrock_kb_rag 👈 You are here  |
 
 This is an extension of [another project](https://github.com/chaserx/chroma_langchain_embedding_retrieval) in a series of projects that I'm working on to learn more about Bedrock, Langchain, and RAG.
 
