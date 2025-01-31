@@ -32,7 +32,7 @@ There is another contrived example of how to use Bedrock to retrieve information
 To run the script, you can use the following command:
 
 ```bash
-uv run main.py --env .env.local --question "What is the total distance traveled by the equipment in the dataset?"
+uv run main.py -k ABC123 --question "What is the total distance traveled by the equipment in the dataset?"
 ```
 
 ## Prerequisites
