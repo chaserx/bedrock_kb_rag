@@ -4,6 +4,15 @@ This is a simple example of how to use Bedrock to retrieve information from a kn
 
 ## Background
 
+| Concept | Repository  |
+|:--|:--|
+|  AWS Bedrock + Langchain example  | https://github.com/chaserx/aws-llm-basic  |
+| Document addition and retrieval w/ ChromaDB example | https://github.com/chaserx/chroma_simple |
+| Data embedding and search w/ ChromaDB example | https://github.com/chaserx/chroma_langchain_embedding_retrieval |
+| Pinecone Vector DB index creation  | https://github.com/chaserx/pinecone_quickstart  |
+| LangSmith example | https://github.com/chaserx/langsmith_simple  |
+| AWS Bedrock Knowledge Base example | https://github.com/chaserx/bedrock_kb_rag 👈 You are here  |
+
 This is an extension of [another project](https://github.com/chaserx/chroma_langchain_embedding_retrieval) in a series of projects that I'm working on to learn more about Bedrock, Langchain, and RAG.
 
 Except here, I'm using a knowledge base that I created in the Bedrock console that is populated with the same `prizes.json` file that I used in the original project.
